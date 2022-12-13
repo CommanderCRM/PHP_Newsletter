@@ -1,0 +1,1 @@
+<?php header('location: ' . BASE_URL . '/index.php'); ?>
